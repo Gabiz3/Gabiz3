@@ -16,5 +16,5 @@
 
 ## What I don't know, give me a few days 😁  
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=Gabiz3&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/Gabiz3))
+[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=Gabiz3&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/Gabiz3)
 
