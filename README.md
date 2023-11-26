@@ -6,7 +6,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gui-loko)](https://github.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-nunes-87a073229/)
 
-## my skills:
+## My skills:
 
 ### Languages: <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/> 
 
