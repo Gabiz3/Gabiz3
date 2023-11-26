@@ -23,7 +23,7 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 ### Database: <img src ="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
 
-### Tecnologias: <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+### Tecnologias: <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ## What I don't know, give me a few days 😁
 
