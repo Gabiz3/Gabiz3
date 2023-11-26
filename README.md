@@ -1,19 +1,10 @@
-- 👋 Hi, I’m @Gabiz3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 
+- 👋 Hi, I’m Gaby
+- 👀 I'm interested in working with programming
+- 🌱 I'm currently learning how to develop web projects
 # social:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gui-loko)](https://github.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-nunes-87a073229/)
-
-## About me:
-
-I'm a Fullstack Developer :smile:
-
-I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
 
 ## My specialties:
 
