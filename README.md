@@ -24,12 +24,16 @@ Estou Cursando Análise e Desenvolvimento de Sistemas pela Uninassau e sou compl
   <h3 style="color: white;">Stacks</h3>
 </div>
 <div style='display: inline-block; background-color: #FF69B4; padding: 10px;'><br/>
-  <img align='center' alt='Python' src='https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=FF69B4'/>
-  <img align='center' alt='SAP' src='https://img.shields.io/badge/SAP-white?style=for-the-badge&logo=sap&logoColor=FF69B4'/>
-  <img align='center' alt='HTML' src='https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=FF69B4'/>
+   <img align='center' alt='HTML' src='https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=FF69B4'/>
   <img align='center' alt='CSS' src='https://img.shields.io/badge/CSS-white?&style=for-the-badge&logo=css3&logoColor=FF69B4'/>
   <img align='center' alt='JavaScript' src='https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=FF69B4'/>
+  <img align='center' alt='Oracle' src='https://img.shields.io/badge/Oracle-white?style=for-the-badge&logo=oracle&logoColor=FF69B4'/>
+  <img align='center' alt='SQL Server' src='https://img.shields.io/badge/SQL_Server-white?style=for-the-badge&logo=microsoft-sql-server&logoColor=FF69B4'/>
+  <img align='center' alt='Power BI' src='https://img.shields.io/badge/Power_BI-white?style=for-the-badge&logo=power-bi&logoColor=FF69B4'/>
+  <img align='center' alt='Python' src='https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=FF69B4'/>
 </div>
+
+
 
 #
 
