@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&color=FF69B4&center=true&vCenter=true&lines=🌸+Ol%C3%A1%2C+sou+Gabi)](https://git.io/typing-svg)
 
-
-
-
-Estou Cursando Análise e Desenvolvimento de Sistemas pela Uninassau e sou completamente apaixonada por tecnologia. Possuo conhecimento em banco de dados, incluindo SQL e Oracle. Além disso, tenho experiência em linguagens como JavaScript e Python, assim como em HTML, CSS e Power BI.
+Estou cursando Análise e Desenvolvimento de Sistemas pela Uninassau e sou apaixonada por tecnologia. Tenho conhecimento em bancos de dados, incluindo SQL e Oracle. Além disso, possuo experiência com ETL e Python, bem como em Power BI e análise de dados.
 #
 
 
